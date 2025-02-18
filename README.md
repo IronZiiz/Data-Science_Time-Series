@@ -40,8 +40,8 @@ Welcome to the **Data Science: Time Series Analysis** repository! This repositor
   - Machine Learning: `Scikit-learn`, `Prophet`, `ARIMA`  
 
 ### Development Environment  
-- **Jupyter Notebook**: For interactive coding and visualization.  
-- **VS Code**: For script development and version control.  
+- **Google Colab**: For interactive coding and visualization.  
+ 
 
 ---
 
