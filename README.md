@@ -37,7 +37,7 @@ Welcome to the **Data Science: Time Series Analysis** repository! This repositor
   - Data Manipulation: `Pandas`, `NumPy`  
   - Visualization: `Matplotlib`, `Seaborn`, `Plotly`  
   - Statistical Analysis: `Statsmodels`, `SciPy`  
-  - Machine Learning: `Scikit-learn`, `Prophet`, `ARIMA`  
+  - Machine Learning: `Scikit-learn`, `Prophet`  
 
 ### Development Environment  
 - **Google Colab**: For interactive coding and visualization.  
